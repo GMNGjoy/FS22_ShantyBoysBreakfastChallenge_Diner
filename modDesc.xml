@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="77">
+    <author>GMNGjoy</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Shanty Boys Diner Storage</en>
+        <de></de>
+    </title>
+<description>
+<en><![CDATA[Shanty Boys Breakfast Challenge Diner Storage
+
+License: CC0 1.0 Universal
+]]></en>
+<de><![CDATA[
+Lizenz: CC0 1.0 Universal
+]]></de>
+
+    </description>
+    <iconFilename>icon_dinerStorage.dds</iconFilename>
+    <multiplayer supported="true"/>
+
+    <storeItems>
+        <storeItem xmlFilename="dinerStorage.xml" />
+    </storeItems>
+</modDesc>
